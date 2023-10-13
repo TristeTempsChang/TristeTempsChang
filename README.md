@@ -1,4 +1,4 @@
-<img src="media/ad222d4e1a9469c6369d3dd974c2ca79.jpg" />
+<img src="media/ad222d4e1a9469c6369d3dd974c2ca79.jpg" style="width: 100%; height: auto;" />
 
 <hr />
 
