@@ -14,19 +14,19 @@
 <div>
     <ul>
         <li>
-            🔭 I'm currently working on
+            🔭 I'm currently working on a Rails Project
         </li>
         <br />
         <li>
-            🌱 I'm currently learning
+            🌱 I'm currently learning Ruby On Rails and VueJS
         </li>
         <br />
         <li>
-            💬 Ask me about
+            💬 Ask me about web development and vacation
         </li>
         <br />
         <li>
-            📬 How to reach me :
+            📬 How to reach me : tristan.tran2111@gmail.com
         </li>
         <br />
         <li>
