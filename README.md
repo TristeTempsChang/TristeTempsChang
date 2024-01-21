@@ -14,7 +14,7 @@
 <div>
     <ul>
         <li>
-            🔭 I'm currently working on a Rails Project
+            🔭 I'm currently working on a Angular and NestJS Project
         </li>
         <br />
         <li>
