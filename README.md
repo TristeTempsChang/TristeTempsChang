@@ -30,7 +30,7 @@
         </li>
         <br />
         <li>
-            ⭐ Fun fact ... <strong>I hate php</strong>
+            ⭐ Fun fact ... <strong>I don't sleep very much :'(</strong>
         </li>
     </ul>
 </div>
