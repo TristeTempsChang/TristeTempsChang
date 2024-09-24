@@ -14,11 +14,11 @@
 <div>
     <ul>
         <li>
-            🔭 I'm currently working on a Angular and NestJS Project
+            🔭 I'm currently working on my portfolio
         </li>
         <br />
         <li>
-            🌱 I'm currently learning Ruby On Rails
+            🌱 I'm currently learning React
         </li>
         <br />
         <li>
